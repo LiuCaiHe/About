@@ -1,4 +1,3 @@
-### About Me
+### Hi there, I'm [LiuCaiHe!](https://liucaihe.github.io) 👋
 
-[![liucaihe github stats](https://github-readme-stats.vercel.app/api?username=LiuCaiHe)](https://github.com/anuraghazra/github-readme-stats)
-
+Hi, I'm LiuCaiHe, a self-taught frontEnd web developer from china.
